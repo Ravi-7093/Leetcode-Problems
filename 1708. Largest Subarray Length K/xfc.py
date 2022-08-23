@@ -15,4 +15,4 @@ class Solution(object):
                 ans=nums[start:end+1]#store the value in result arr 
             start+=1#traverse the loop  check if the next subarray is optimized
             end+=1
-        return ans#return an empty list 
+        return ans#return the final  list 
